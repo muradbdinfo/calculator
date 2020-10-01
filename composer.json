@@ -9,6 +9,8 @@
             "email": "muradbd.info@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+   "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4"
+    }
 }
