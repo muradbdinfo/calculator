@@ -1,0 +1,12 @@
+{
+    "name": "murad/calculator",
+    "description": "Murad Basics Calculator",
+    "authors": [
+        {
+            "name": "Md Murad Hosen",
+            "email": "muradbd.info@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
