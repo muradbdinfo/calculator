@@ -25,3 +25,6 @@ for example
             "murad\\calculator\\": "vendor/murad/calculator/src"
         }
     },
+
+#composer dumpautoload
+#php artisan serve
